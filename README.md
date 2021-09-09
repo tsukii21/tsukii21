@@ -10,4 +10,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsukii21&show_icons=true&locale=en&layout=compact" alt="tsukii21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsukii21&show_icons=true&locale=en" alt="tsukii21" /></p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsukii21&theme=dark)](https://git.io/streak-stats)
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Jaidev's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=tsukii21&theme=gruvbox_duo&hide_border=true" /></a> </p>
