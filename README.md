@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaidev</h1>
 <h3 align="center">a frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://tsukii21.github.io/tsukii-webworks-portfolio/](https://tsukii21.github.io/tsukii-webworks-portfolio/)
+- 👨‍💻 All of my projects are available at [https://tsukiiwebworks.netlify.app/](tsukiiwebworks.netlify.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
